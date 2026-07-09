@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this is incorrect file
-=======
-this is correct file
->>>>>>> 0f994d6fe6d0d2f0591b48aaef17b59711c218f4
